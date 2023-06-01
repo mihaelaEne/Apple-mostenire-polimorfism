@@ -1,0 +1,3 @@
+Iphone,director1,11Pro,3
+Laptop,director2,M1,8
+Ceas,director3,8,rosie
